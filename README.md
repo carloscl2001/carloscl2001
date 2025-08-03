@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora — Ingeniero de Software apasionado por crear soluciones robustas y eficientes
+# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora — Ingeniero Informático apasionado por crear soluciones robustas y eficientes
 
-💻 Ingeniero de Software con sólida formación en desarrollo multiplataforma y backend, especializado en diseño de soluciones precisas, fiables y escalables. Experiencia en metodologías ágiles, despliegue en entornos Linux y trabajo colaborativo. Apasionado por resolver problemas complejos mediante código limpio y buenas prácticas.
+💻 Ingeniero Informático con sólida formación en desarrollo multiplataforma y backend, especializado en diseño de soluciones precisas, fiables y escalables. Experiencia en metodologías ágiles, despliegue en entornos Linux y trabajo colaborativo. Apasionado por resolver problemas complejos mediante código limpio y buenas prácticas.
 
-🚀 Busco incorporarme a equipos de desarrollo donde pueda aplicar mis conocimientos para crear software de alta calidad y aportar valor real.
+🚀 Mi objetivo es desarrollarme profesionalmente como Ingeniero de Software, aplicando mis conocimientos para crear software de alta calidad y aportar valor real.
 
 ---
 
