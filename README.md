@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora, actulamente Ingeniero de Software
+# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora
 
 🎓 Ingeniero Informático por la Universidad de Cádiz, con una sólida base en desarrollo de software y un fuerte interés en entornos donde la precisión, la fiabilidad y la eficiencia son esenciales.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 Experiencia destacada
+## 💼 Experiencia profesional
 
 ### 🧑‍💻 Desarrollador de aplicaciones multiplataforma  
 **Universidad de Cádiz** — *Prácticas extracurriculares*  
@@ -17,6 +17,14 @@
 - Configuré y desplegué la aplicación en un servidor Linux, incluyendo la preparación del entorno, configuraciones básicas de seguridad y puesta en producción.  
 
 **Tecnologías utilizadas:** Flutter, FastAPI, MongoDB Atlas, Linux Server, Python, APIs REST, Git
+
+---
+
+## 🎓 Experiencia académica
+
+- Sólida base en **C++** y **Java**, adquirida a lo largo de la carrera a través de asignaturas clave centradas en estructuras de datos, algoritmia, programación orientada a objetos y diseño de software.  
+- **C++** ha sido mi lenguaje principal en el proceso de aprendizaje del desarrollo de software, destacando por su uso en prácticas exigentes con enfoque en eficiencia y bajo nivel.  
+- Participación en diversos proyectos académicos que abarcan desde bases de datos relacionales y diseño de aplicaciones web, hasta desarrollo en entornos móviles y trabajo con sistemas distribuidos.
 
 ---
 
@@ -52,7 +60,7 @@ Aplicación multiplataforma desarrollada con Flutter y FastAPI para la visualiza
 - MongoDB Atlas (base de datos en la nube)
 - Despliegue en servidor Linux
 
-_(Agrega aquí más proyectos si los tienes)_
+_(Puedes añadir aquí más proyectos si los tienes)_
 
 ---
 
