@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora
+# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora, actulamente Ingeniero de Software
 
 🎓 Ingeniero Informático por la Universidad de Cádiz, con una sólida base en desarrollo de software y un fuerte interés en entornos donde la precisión, la fiabilidad y la eficiencia son esenciales.
 
