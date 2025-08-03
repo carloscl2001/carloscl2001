@@ -54,7 +54,7 @@
 Durante mi formación en Ingeniería Informática, he desarrollado una base sólida en programación, estructuras de datos, sistemas operativos y bases de datos, con especial énfasis en buenas prácticas de diseño y eficiencia algorítmica.
 
 ### 💡 Lenguajes clave  
-- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Algoritmia, Programación Avanzada y Sistemas Operativos.  
+- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Algoritmia, Programación Avanzada y Programación Orientada a Objectos.  
 - **Java**: Usado en programación orientada a objetos, desarrollo de aplicaciones de escritorio, patrones de diseño y proyectos basados en MVC.  
 - **Python**: Aplicado en análisis de datos, scripting, automatización y desarrollo backend.  
 - **SQL**: Dominio de consultas complejas en Oracle, MySQL y PostgreSQL en proyectos de bases de datos relacionales.
