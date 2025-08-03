@@ -106,7 +106,7 @@ Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto co
 
 ---
 
-## 📌 Proyecto destacado
+## 📌 Proyecto destacado - Trabajo de Fin de Grado
 
 ### [📅 ESIPlanner – App de Horarios Académicos](https://github.com/carloscl2001/ESIPlanner-TFG)  
 Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, obteniendo una **calificación de 10**, para la gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
