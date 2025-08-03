@@ -6,6 +6,13 @@
 
 ---
 
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com)
+
 ## 🛠️ Tecnologías que utilizo
 
 ### Lenguajes de programación  
@@ -93,10 +100,3 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 ## 📈 GitHub Stats
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloscl2001&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com)
