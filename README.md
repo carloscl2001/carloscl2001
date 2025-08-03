@@ -1,13 +1,46 @@
 # 👋 ¡Hola! Soy Carlos Antonio Cortés Lora
 
-🎓 Ingeniero Informático y actual **Desarrollador de Software**, con una sólida base en desarrollo de aplicaciones y un fuerte interés en entornos donde la precisión, la fiabilidad y la eficiencia son esenciales.
+💻 **Ingeniero de Software**, con una sólida base en desarrollo de software y un fuerte interés en entornos donde la precisión, la fiabilidad y la eficiencia son esenciales.
 
+🎓 Graduado en Ingeniería Informática por la Universidad de Cádiz.  
 🧠 Me considero una persona analítica, adaptable y comprometida con el aprendizaje continuo. Disfruto resolviendo problemas complejos mediante soluciones técnicas rigurosas y eficientes.
 
 🚀 Busco desarrollarme en equipos donde la colaboración, la innovación y el enfoque técnico sean clave para generar un impacto real en sistemas complejos.
 
-📫 Contacto: [carlosantonio.corteslora@gmail.com](mailto:carlosantonio.corteslora@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/carlos-antonio-cortes-lora](https://www.linkedin.com/in/carlos-antonio-cortes-lora)
+---
+
+## 🛠️ Tecnologías que utilizo
+
+### Lenguajes de programación  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+### Bases de datos  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Desarrollo Web  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Desarrollo móvil  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
+### APIs REST  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### Herramientas y otras tecnologías  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
 ---
 
@@ -25,38 +58,33 @@
 
 ## 🎓 Experiencia académica
 
-Durante mi formación en Ingeniería Informática, he desarrollado una base sólida en programación, estructuras de datos, sistemas operativos y bases de datos, con especial énfasis en buenas prácticas de diseño y eficiencia algorítmica.
-
-### 💡 Lenguajes clave
-- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Algoritmia, Programación Avanzada y Sistemas Operativos.
-- **Java**: Usado en programación orientada a objetos, desarrollo de aplicaciones de escritorio, patrones de diseño y proyectos basados en MVC.
-- **Python**: Aplicado en análisis de datos, scripting, automatización y desarrollo backend.
-- **SQL**: Dominio de consultas complejas en Oracle, MySQL y PostgreSQL en proyectos de bases de datos relacionales.
-
-### 🧱 Áreas destacadas
-- Diseño y modelado de bases de datos (Oracle, PostgreSQL, MongoDB)
-- Desarrollo web con HTML, CSS, JavaScript y PHP
-- Construcción de APIs REST (FastAPI, Node.js)
-- Desarrollo de apps móviles con Flutter y Android Studio
-- Control de versiones y despliegue con Git y Docker
-- Programación orientada a videojuegos con Unity y C#
-
-### 📂 Proyectos académicos relevantes
-- Implementación de algoritmos de planificación y estructuras complejas en C++
-- Desarrollo de sistemas CRUD completos conectados a bases de datos relacionales
-- Construcción de aplicaciones web full-stack usando PHP/MySQL y Node.js
-- Aplicaciones móviles híbridas y nativas con Flutter y Java
+- Sólida base en **C++** y **Java**, adquirida a lo largo de la carrera a través de asignaturas clave centradas en estructuras de datos, algoritmia, programación orientada a objetos y diseño de software.  
+- **C++** ha sido mi lenguaje principal en el proceso de aprendizaje del desarrollo de software, destacando por su uso en prácticas exigentes con enfoque en eficiencia y bajo nivel.  
+- Participación en diversos proyectos académicos que abarcan desde bases de datos relacionales y diseño de aplicaciones web, hasta desarrollo en entornos móviles y trabajo con sistemas distribuidos.
 
 ---
 
 ## 📌 Proyecto destacado
 
-### [📅 ESIPlanner – App de Horarios Académicos](https://github.com/carloscl2001/ESIPlanner)
-Aplicación multiplataforma desarrollada como Trabajo Fin de Grado (TFG), con una **calificación de 10**, para la visualización y gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
+### [📅 ESIPlanner – App de Horarios Académicos](https://github.com/carloscl2001/ESIPlanner)  
+Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, obteniendo una **calificación de 10**, para la gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
 
 - Flutter (interfaz y navegación)
 - FastAPI (backend)
-- MongoDB Atlas (base de datos en la nube)
+- MongoDB Atlas (base de datos)
 - Despliegue en servidor Linux
 
-> 💡 ESIPlanner fue diseñado y desarrollado desde cero, integrando login, registro, agenda personal y horarios personalizados con acceso a datos académicos reales.
+> 🧪 Funcionalidades: login, registro, horarios personalizados, integración con agenda, consumo de APIs académicas.
+
+---
+
+## 📈 GitHub Stats
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloscl2001&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com)
