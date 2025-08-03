@@ -5,6 +5,10 @@
 🚀 Mi objetivo es desarrollarme profesionalmente como Ingeniero de Software, aplicando mis conocimientos para crear software de alta calidad y aportar valor real.
 
 ---
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com)
 
 ---
 
