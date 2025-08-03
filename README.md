@@ -13,6 +13,18 @@
 
 ---
 
+---
+
+## ⚙️ Competencias clave
+
+- Dominio avanzado de **C++** para desarrollo de software eficiente y fiable, con énfasis en sistemas embebidos y software en tiempo real.  
+- Análisis de requisitos y ressolución de problemas
+- Colaboracion en equipo 
+- Control de versiones con **Git** y aplicación de metodologías ágiles **Scrum**.  
+- Experiencia en desarrollo multiplataforma con Flutter, Python y APIs REST.  
+- Inglés técnico B2, preparado para trabajo en entornos internacionales.
+
+
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com)
