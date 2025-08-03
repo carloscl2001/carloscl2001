@@ -66,6 +66,8 @@ Durante mi formación como Ingeniero Informático, he desarrollado una base sól
 - **SQL**: Experiencia con Oracle, MySQL y PostgreSQL para consultas complejas y modelado de bases de datos.
 
 ### 🧱 Áreas destacadas  
+- Análisis de requisitos y capácidad analítica
+- Colaboración en equipo y resolución de problemas
 - Diseño y modelado de bases de datos (relacionales y NoSQL)  
 - Desarrollo web con HTML, CSS, JavaScript y PHP  
 - Construcción de APIs REST (FastAPI, Node.js)  
@@ -85,9 +87,8 @@ Durante mi formación como Ingeniero Informático, he desarrollado una base sól
 
 - ✅ **Testing avanzado en C++**: uso de Google Test para pruebas unitarias y de integración.  
 - ✅ **Matrices de pruebas y validación de software**: trazabilidad de requisitos, verificación formal.  
-- ✅ **Control de configuración de versiones**: Git, GitFlow y documentación de cambios.  
-- ✅ **Sistemas embebidos y software en tiempo real**: principios de diseño bajo restricciones del sector aeronáutico/naval.  
-- ✅ **Modelado con UML y especificación de requisitos software**.  
+- ✅ **Mejora en el control de configuración de versiones**: Git, GitFlow y documentación de cambios.  
+- ✅ **Sistemas embebidos y software en tiempo real**: principios de diseño bajo restricciones del sector aeronáutico/naval.   
 - ✅ **Perfeccionamiento del inglés técnico aplicado a desarrollo y documentación.**
 
 ---
