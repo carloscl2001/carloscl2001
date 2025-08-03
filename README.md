@@ -1,7 +1,8 @@
 # 👋 ¡Hola! Soy Carlos Antonio Cortés Lora
 
-🎓 Ingeniero Informático por la Universidad de Cádiz, con una sólida base en desarrollo de software y un fuerte interés en entornos donde la precisión, la fiabilidad y la eficiencia son esenciales.
+💻 **Ingeniero de Software**, con una sólida base en desarrollo de software y un fuerte interés en entornos donde la precisión, la fiabilidad y la eficiencia son esenciales.
 
+🎓 Graduado en Ingeniería Informática por la Universidad de Cádiz.  
 🧠 Me considero una persona analítica, adaptable y comprometida con el aprendizaje continuo. Disfruto resolviendo problemas complejos mediante soluciones técnicas rigurosas y eficientes.
 
 🚀 Busco desarrollarme en equipos donde la colaboración, la innovación y el enfoque técnico sean clave para generar un impacto real en sistemas complejos.
@@ -73,4 +74,4 @@ _(Puedes añadir aquí más proyectos si los tienes)_
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-antonio-cortes-lora)
-- Email: tuemail@example.com
+- Email: carlosantonio.corteslora@gmail.com
