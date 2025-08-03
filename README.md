@@ -17,5 +17,5 @@
 - [Otro proyecto interesante](https://github.com/carloscl2001/otro-repo): Breve descripción.
 
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- [LinkedIn](https://www.linkedin.com/in/carlos-antonio-cortes-lora)
 - Email: tuemail@example.com
