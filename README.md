@@ -20,7 +20,8 @@
 
 ---
 
-## 🛠️ Tecnologías que utilizo
+##
+ 🛠️ Tecnologías que utilizo
 
 ### 🔹 Lenguajes de programación  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
@@ -115,7 +116,7 @@ Tecnologías: Flutter · FastAPI · MongoDB Atlas · Docker · APIs REST
 - 📋 Matrices de prueba y validación de requisitos
 - 🧪 Técnicas de control de versiones y workflows (Git, documentación)
 - ⚙️ Fundamentos de **sistemas embebidos** y software en tiempo real
-- 🇬🇧 Mejora de **inglés técnico** y documentación profesional
+- <img src="https://flagcdn.com/gb.svg" width="20" height="15"> Mejora de **inglés técnico** y documentación profesional
 
 ---
 
