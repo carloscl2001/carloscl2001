@@ -74,10 +74,10 @@ Durante mis prácticas extracurriculares, diseñé y desarrollé un sistema comp
 Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto conocimientos teóricos como prácticos.
 
 ### 🧠 Lenguajes clave
-- **C++**: desarrollo de estructuras complejas, algoritmos, aplicaciones de escritorio y control de memoria.
-- **Java**: concurrencia, programación en tiempo real y sistemas indexadores con hilos.
-- **Python**: automatización, scripts, backend y procesamiento de datos.
-- **SQL**: modelado y consultas complejas en Oracle, MySQL y PostgreSQL.
+- **C++**: Lenguaje principal y en el que poseo mayor dominio, usado extensamente para el desarrollo de estructuras complejas, algoritmos avanzados, aplicaciones de escritorio y gestión eficiente de memoria.  
+- **Java**: Experiencia en concurrencia, programación en tiempo real y sistemas indexadores multihilo.  
+- **Python**: Automatización, scripting, desarrollo backend y procesamiento de datos.  
+- **SQL**: Modelado y consultas complejas en Oracle, MySQL y PostgreSQL.
 
 ### 🧱 Áreas destacadas
 - Análisis y resolución de problemas complejos  
