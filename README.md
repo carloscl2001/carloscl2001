@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Carlos Antonio Cortés Lora</h1>
-<h3 align="center">🧠 Ingeniero Informático | 💻 Apasionado por crear soluciones robustas y eficientes</h3>
+<h3 align="center">💻 Ingeniero Informático | Apasionado por crear software robusto y eficiente</h3>
 
 ---
 
@@ -33,6 +33,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
