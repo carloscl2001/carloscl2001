@@ -58,9 +58,27 @@
 
 ## 🎓 Experiencia académica
 
-- Sólida base en **C++** y **Java**, adquirida a lo largo de la carrera a través de asignaturas clave centradas en estructuras de datos, algoritmia, programación orientada a objetos y diseño de software.  
-- **C++** ha sido mi lenguaje principal en el proceso de aprendizaje del desarrollo de software, destacando por su uso en prácticas exigentes con enfoque en eficiencia y bajo nivel.  
-- Participación en diversos proyectos académicos que abarcan desde bases de datos relacionales y diseño de aplicaciones web, hasta desarrollo en entornos móviles y trabajo con sistemas distribuidos.
+Durante mi formación en Ingeniería Informática, he desarrollado una base sólida en programación, estructuras de datos, sistemas operativos y bases de datos, con especial énfasis en buenas prácticas de diseño y eficiencia algorítmica.
+
+### 💡 Lenguajes clave
+- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Algoritmia, Programación Avanzada y Sistemas Operativos.
+- **Java**: Usado en programación orientada a objetos, desarrollo de aplicaciones de escritorio, patrones de diseño y proyectos basados en MVC.
+- **Python**: Aplicado en análisis de datos, scripting, automatización y desarrollo backend.
+- **SQL**: Dominio de consultas complejas en Oracle, MySQL y PostgreSQL en proyectos de bases de datos relacionales.
+
+### 🧱 Áreas destacadas
+- Diseño y modelado de bases de datos (Oracle, PostgreSQL, MongoDB)
+- Desarrollo web con HTML, CSS, JavaScript y PHP
+- Construcción de APIs REST (FastAPI, Node.js)
+- Desarrollo de apps móviles con Flutter y Android Studio
+- Control de versiones y despliegue con Git y Docker
+- Programación orientada a videojuegos con Unity y C#
+
+### 📂 Proyectos académicos relevantes
+- Implementación de algoritmos de planificación y estructuras complejas en C++
+- Desarrollo de sistemas CRUD completos conectados a bases de datos relacionales
+- Construcción de aplicaciones web full-stack usando PHP/MySQL y Node.js
+- Aplicaciones móviles híbridas y nativas con Flutter y Java
 
 ---
 
