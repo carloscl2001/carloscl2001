@@ -8,7 +8,7 @@
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora) 
 
 ---
 
@@ -57,27 +57,38 @@
 
 ## 🎓 Experiencia académica
 
-Durante mi formación en Ingeniería Informática, he desarrollado una base sólida en programación, estructuras de datos, sistemas operativos y bases de datos, con especial énfasis en buenas prácticas de diseño y eficiencia algorítmica.
+Durante mi formación como Ingeniero Informático, he desarrollado una base sólida en programación, estructuras de datos, bases de datos y desarrollo de software con orientación a la eficiencia, calidad y escalabilidad.
 
 ### 💡 Lenguajes clave  
-- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Diseño de algoritmos, Programación Orientada a Objectos. Además de usarlo para desarrollar aplicaciones de escritorio.
-- **Java**: Usado en la asigantura de Programación Concurrente en Tiempo Real, no solo para desarrollar sistemas para controla la concurrencia sino para sistemas en tiempo real y algunas aplicaciones como indexadores y crawlers. 
-- **Python**: Aplicado en análisis de datos, scripting, automatización y desarrollo backend.  
-- **SQL**: Dominio de consultas complejas en Oracle, MySQL y PostgreSQL en proyectos de bases de datos relacionales.
+- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Diseño de Algoritmos y Programación Orientada a Objetos, así como en el desarrollo de aplicaciones de escritorio.  
+- **Java**: Aplicado en Programación Concurrente en Tiempo Real, desarrollo de sistemas con hilos, control de concurrencia y soluciones indexadoras.  
+- **Python**: Usado en análisis de datos, automatización, scripting y desarrollo backend.  
+- **SQL**: Experiencia con Oracle, MySQL y PostgreSQL para consultas complejas y modelado de bases de datos.
 
 ### 🧱 Áreas destacadas  
-- Diseño y modelado de bases de datos (Oracle, PostgreSQL, MongoDB)  
+- Diseño y modelado de bases de datos (relacionales y NoSQL)  
 - Desarrollo web con HTML, CSS, JavaScript y PHP  
 - Construcción de APIs REST (FastAPI, Node.js)  
-- Desarrollo de apps móviles con Android Studio y multiplataforma usando Flutter
-- Control de versiones y despliegue con Git y Docker  
-- Programación orientada a videojuegos con Unity y C#
+- Desarrollo de apps móviles nativas y multiplataforma (Android Studio, Flutter)  
+- Control de versiones y despliegue (Git, Docker)  
+- Programación orientada a videojuegos (Unity + C#)
 
 ### 📂 Proyectos académicos relevantes  
 - Implementación de algoritmos de planificación y estructuras complejas en C++  
-- Desarrollo de sistemas CRUD completos conectados a bases de datos relacionales  
-- Construcción de aplicaciones web full-stack usando PHP/MySQL y Node.js  
-- Aplicaciones móviles híbridas y nativas con Flutter y Java
+- Desarrollo de sistemas CRUD con bases de datos relacionales  
+- Aplicaciones web full-stack (PHP/MySQL, Node.js)  
+- Apps móviles con interfaz moderna y acceso a datos desde la nube
+
+---
+
+## 🧪 Actualmente aprendiendo
+
+- ✅ **Testing avanzado en C++**: uso de Google Test para pruebas unitarias y de integración.  
+- ✅ **Matrices de pruebas y validación de software**: trazabilidad de requisitos, verificación formal.  
+- ✅ **Control de configuración de versiones**: Git, GitFlow y documentación de cambios.  
+- ✅ **Sistemas embebidos y software en tiempo real**: principios de diseño bajo restricciones del sector aeronáutico/naval.  
+- ✅ **Modelado con UML y especificación de requisitos software**.  
+- ✅ **Perfeccionamiento del inglés técnico aplicado a desarrollo y documentación.**
 
 ---
 
@@ -100,4 +111,3 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 
 - Español (nativo)  
 - Inglés (B2 – técnico y conversacional)
-
