@@ -113,10 +113,10 @@ Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto co
 
 ---
 
-## 🌐 Idiomas
+### 🌐 Idiomas
 
-- 🇪🇸 Español — Nativo  
-- 🇬🇧 Inglés — B2 (técnico y conversacional)
+- ![España](https://flagcdn.com/es.svg) Español – Nativo  
+- ![Reino Unido](https://flagcdn.com/gb.svg) Inglés – Nivel B2 (técnico y conversacional)
 
 ---
 
