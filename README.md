@@ -97,6 +97,8 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Idiomas
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloscl2001&show_icons=true&theme=tokyonight)
+- Español (nativo)  
+- Inglés (B2 – técnico y conversacional)
+
