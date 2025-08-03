@@ -31,8 +31,7 @@
 
 ---
 
-##
- 🛠️ Tecnologías que utilizo
+## 🛠️ Tecnologías que utilizo
 
 ### 🔹 Lenguajes de programación  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
