@@ -22,6 +22,7 @@
 - Experiencia en desarrollo multiplataforma con Flutter, Python y APIs REST.  
 - Inglés técnico B2, preparado para trabajo en entornos internacionales.
 
+---
 
 ## 📫 Contacto
 
