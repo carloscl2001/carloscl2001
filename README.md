@@ -58,7 +58,7 @@
 ### 🧑‍💻 Desarrollador de aplicaciones multiplataforma  
 **Universidad de Cádiz** — *Prácticas extracurriculares*
 
-✅ Diseñé y desarrollé desde cero una app multiplataforma para la visualización del calendario académico.  
+✅ Diseñé y desarrollé desde cero una app multiplataforma para la visualización del calendario académico, que también fue mi proyecto de Trabajo Fin de Grado (TFG), calificado con un 10.   
 ✅ Participé en reuniones semanales bajo metodología Scrum.  
 ✅ Configuré y desplegué la app en un servidor Linux, aplicando buenas prácticas de seguridad.
 
