@@ -102,6 +102,7 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 
 Tecnologías: Flutter · FastAPI · MongoDB Atlas · Docker · APIs REST  
 > Funcionalidades: Sistema de login, registro, selección de asiganturas y grupos, horarios personalizados, modo claro/oscuro, interfaz web e interfaz móvil.
+
 > Uso en entorno real de la Escuela Superior de Ingeniería.
 
 ---
