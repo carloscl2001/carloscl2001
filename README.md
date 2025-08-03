@@ -63,7 +63,7 @@ Durante mi formación en Ingeniería Informática, he desarrollado una base sól
 - Diseño y modelado de bases de datos (Oracle, PostgreSQL, MongoDB)  
 - Desarrollo web con HTML, CSS, JavaScript y PHP  
 - Construcción de APIs REST (FastAPI, Node.js)  
-- Desarrollo de apps móviles con Flutter y Android Studio  
+- Desarrollo de apps móviles con Android Studio y multiplataforma usando Flutter
 - Control de versiones y despliegue con Git y Docker  
 - Programación orientada a videojuegos con Unity y C#
 
