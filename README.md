@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora — Ingeniero Informático apasionado por crear soluciones robustas y eficientes
+# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora — Ingeniero de software apasionado por crear soluciones robustas y eficientes
 
-💻 Ingeniero Informático con sólida formación en desarrollo multiplataforma y backend, especializado en diseño de soluciones precisas, fiables y escalables. Experiencia en metodologías ágiles, despliegue en entornos Linux y trabajo colaborativo. Apasionado por resolver problemas complejos mediante código limpio y buenas prácticas.
+💻 Graduado en Ingeniería Informática con sólida formación en desarrollo multiplataforma y backend, especializado en diseño de soluciones precisas, fiables y escalables. Experiencia en metodologías ágiles, despliegue en entornos Linux y trabajo colaborativo. Apasionado por resolver problemas complejos mediante código limpio, buenas prácticas y una fuerte orientación a la calidad del software.
 
-🚀 Mi objetivo es desarrollarme profesionalmente como Ingeniero de Software, aplicando mis conocimientos para crear software de alta calidad y aportar valor real.
+🚀 Mi objetivo es desarrollarme profesionalmente como Ingeniero de Software, aplicando mis conocimientos para crear software de alta calidad en sectores exigentes como el aeroespacial, defensa o naval.
 
 ---
 
@@ -43,7 +43,8 @@
 **Universidad de Cádiz** — *Prácticas extracurriculares*  
 - Diseñé y desarrollé desde cero una aplicación multiplataforma para la visualización del calendario académico, mejorando la accesibilidad y organización para docentes y estudiantes.  
 - Participé activamente en reuniones semanales bajo metodología Scrum, facilitando la comunicación del equipo y asegurando el cumplimiento de objetivos.  
-- Configuré y desplegué la aplicación en un servidor Linux, implementando prácticas básicas de seguridad para garantizar estabilidad y disponibilidad.
+- Configuré y desplegué la aplicación en un servidor Linux, implementando prácticas básicas de seguridad para garantizar estabilidad y disponibilidad.  
+- Apliqué pruebas unitarias, control de versiones con Git y documentación técnica estructurada.
 
 **Tecnologías utilizadas:** Flutter, FastAPI, MongoDB Atlas, Linux Server, Python, APIs REST, Git
 
@@ -51,27 +52,22 @@
 
 ## 🎓 Experiencia académica
 
-Durante mi formación en Ingeniería Informática, he desarrollado una base sólida en programación, estructuras de datos, sistemas operativos y bases de datos, con especial énfasis en buenas prácticas de diseño y eficiencia algorítmica.
+Durante mi formación en Ingeniería Informática, he desarrollado una base sólida en programación, estructuras de datos, sistemas operativos y bases de datos, con especial énfasis en buenas prácticas de diseño, pruebas y eficiencia algorítmica.
 
-### 💡 Lenguajes clave  
-- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Diseño de algoritmos, Programación Orientada a Objectos. Además de usarlo para desarrollar aplicaciones de escritorio.
-- **Java**: Usado en la asigantura de Programación Concurrente en Tiempo Real, no solo para desarrollar sistemas para controla la concurrencia sino para sistemas en tiempo real y algunas aplicaciones como indexadores y crawlers. 
-- **Python**: Aplicado en análisis de datos, scripting, automatización y desarrollo backend.  
-- **SQL**: Dominio de consultas complejas en Oracle, MySQL y PostgreSQL en proyectos de bases de datos relacionales.
+### 🧠 Lenguaje dominante  
+- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Diseño de algoritmos, Programación Orientada a Objetos y Programación Concurrente en Tiempo Real. Aplicado en simulaciones, videojuegos y desarrollo de aplicaciones de escritorio.
+- **Java**: Usado para construir sistemas concurrentes y en tiempo real, además de aplicaciones como indexadores y crawlers web.  
+- **Python**: Aplicado en scripting, automatización, backend y análisis de datos.  
+- **SQL**: Dominio de consultas complejas en Oracle, MySQL y PostgreSQL.
 
 ### 🧱 Áreas destacadas  
-- Diseño y modelado de bases de datos (Oracle, PostgreSQL, MongoDB)  
-- Desarrollo web con HTML, CSS, JavaScript y PHP  
+- Diseño y modelado de bases de datos relacionales y no relacionales  
+- Desarrollo web full-stack (HTML, CSS, JS, PHP, Node.js)  
 - Construcción de APIs REST (FastAPI, Node.js)  
-- Desarrollo de apps móviles con Android Studio y multiplataforma usando Flutter
-- Control de versiones y despliegue con Git y Docker  
+- Desarrollo móvil híbrido con Flutter y Android Studio  
+- Pruebas unitarias, matrices de pruebas y control de configuración  
+- Control de versiones con Git y despliegue en contenedores Docker  
 - Programación orientada a videojuegos con Unity y C#
-
-### 📂 Proyectos académicos relevantes  
-- Implementación de algoritmos de planificación y estructuras complejas en C++  
-- Desarrollo de sistemas CRUD completos conectados a bases de datos relacionales  
-- Construcción de aplicaciones web full-stack usando PHP/MySQL y Node.js  
-- Aplicaciones móviles híbridas y nativas con Flutter y Java
 
 ---
 
@@ -85,8 +81,15 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 - MongoDB Atlas (base de datos)  
 - Despliegue en servidor Linux
 
-> 🧪 Funcionalidades: login, registro, horarios personalizados, integración con agenda, consumo de APIs académicas.  
+> 🧪 Funcionalidades: login, registro, horarios personalizados, integración con agenda, consumo de APIs académicas, pruebas unitarias.  
 > 📈 Calificación máxima (10) y uso real en la comunidad académica.
+
+---
+
+## 🌐 Idiomas
+
+- Español (nativo)  
+- Inglés (B2 – técnico y conversacional)
 
 ---
 
@@ -101,3 +104,6 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com)
 
+---
+
+> 🎯 Interesado en formar parte de equipos de alto rendimiento en sectores exigentes como el naval, aeroespacial o defensa, donde se valora la fiabilidad, precisión y calidad del software.
