@@ -9,7 +9,7 @@
 
 🛠️ Me gusta resolver problemas complejos mediante **código limpio**, diseño estructurado y colaboración efectiva.  
 
-🎯 Actualmente, busco desarrollarme profesionalmente como **Ingeniero de Software**, aportando valor real a través del desarrollo de software de calidad.
+🎯 Mi objetivo es desarrollarme profesionalmente como Ingeniero de Software, aplicando mis conocimientos para crear software de alta calidad y aportar valor real.
 
 ---
 
