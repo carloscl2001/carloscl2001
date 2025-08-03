@@ -1,11 +1,8 @@
-# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora
+# 👋 ¡Hola! Soy Carlos Antonio Cortés Lora — Ingeniero de Software apasionado por crear soluciones robustas y eficientes
 
-💻 **Ingeniero de Software**, con una sólida base en desarrollo de software y un fuerte interés en entornos donde la precisión, la fiabilidad y la eficiencia son esenciales.
+💻 Ingeniero de Software con sólida formación en desarrollo multiplataforma y backend, especializado en diseño de soluciones precisas, fiables y escalables. Experiencia en metodologías ágiles, despliegue en entornos Linux y trabajo colaborativo. Apasionado por resolver problemas complejos mediante código limpio y buenas prácticas.
 
-🎓 Graduado en Ingeniería Informática por la Universidad de Cádiz.  
-🧠 Me considero una persona analítica, adaptable y comprometida con el aprendizaje continuo. Disfruto resolviendo problemas complejos mediante soluciones técnicas rigurosas y eficientes.
-
-🚀 Busco desarrollarme en equipos donde la colaboración, la innovación y el enfoque técnico sean clave para generar un impacto real en sistemas complejos.
+🚀 Busco incorporarme a equipos de desarrollo donde pueda aplicar mis conocimientos para crear software de alta calidad y aportar valor real.
 
 ---
 
@@ -17,25 +14,21 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-### Bases de datos  
+### Bases de datos y APIs REST  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### Desarrollo Web  
+### Desarrollo móvil y web  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### Desarrollo móvil  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-### APIs REST  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### Herramientas y otras tecnologías  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -48,9 +41,9 @@
 
 ### 🧑‍💻 Desarrollador de aplicaciones multiplataforma  
 **Universidad de Cádiz** — *Prácticas extracurriculares*  
-- Diseñé y desarrollé desde cero una aplicación multiplataforma para la visualización del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.  
-- Participé activamente en reuniones semanales bajo metodología Scrum, donde se discutieron avances y se definieron nuevas metas, fomentando un entorno de trabajo colaborativo y organizado.  
-- Configuré y desplegué la aplicación en un servidor Linux, incluyendo la preparación del entorno, configuraciones básicas de seguridad y puesta en producción.  
+- Diseñé y desarrollé desde cero una aplicación multiplataforma para la visualización del calendario académico, mejorando la accesibilidad y organización para docentes y estudiantes.  
+- Participé activamente en reuniones semanales bajo metodología Scrum, facilitando la comunicación del equipo y asegurando el cumplimiento de objetivos.  
+- Configuré y desplegué la aplicación en un servidor Linux, implementando prácticas básicas de seguridad para garantizar estabilidad y disponibilidad.
 
 **Tecnologías utilizadas:** Flutter, FastAPI, MongoDB Atlas, Linux Server, Python, APIs REST, Git
 
@@ -60,24 +53,24 @@
 
 Durante mi formación en Ingeniería Informática, he desarrollado una base sólida en programación, estructuras de datos, sistemas operativos y bases de datos, con especial énfasis en buenas prácticas de diseño y eficiencia algorítmica.
 
-### 💡 Lenguajes clave
-- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Algoritmia, Programación Avanzada y Sistemas Operativos.
-- **Java**: Usado en programación orientada a objetos, desarrollo de aplicaciones de escritorio, patrones de diseño y proyectos basados en MVC.
-- **Python**: Aplicado en análisis de datos, scripting, automatización y desarrollo backend.
+### 💡 Lenguajes clave  
+- **C++**: Lenguaje principal durante la carrera, utilizado extensamente en asignaturas como Estructuras de Datos, Algoritmia, Programación Avanzada y Sistemas Operativos.  
+- **Java**: Usado en programación orientada a objetos, desarrollo de aplicaciones de escritorio, patrones de diseño y proyectos basados en MVC.  
+- **Python**: Aplicado en análisis de datos, scripting, automatización y desarrollo backend.  
 - **SQL**: Dominio de consultas complejas en Oracle, MySQL y PostgreSQL en proyectos de bases de datos relacionales.
 
-### 🧱 Áreas destacadas
-- Diseño y modelado de bases de datos (Oracle, PostgreSQL, MongoDB)
-- Desarrollo web con HTML, CSS, JavaScript y PHP
-- Construcción de APIs REST (FastAPI, Node.js)
-- Desarrollo de apps móviles con Flutter y Android Studio
-- Control de versiones y despliegue con Git y Docker
+### 🧱 Áreas destacadas  
+- Diseño y modelado de bases de datos (Oracle, PostgreSQL, MongoDB)  
+- Desarrollo web con HTML, CSS, JavaScript y PHP  
+- Construcción de APIs REST (FastAPI, Node.js)  
+- Desarrollo de apps móviles con Flutter y Android Studio  
+- Control de versiones y despliegue con Git y Docker  
 - Programación orientada a videojuegos con Unity y C#
 
-### 📂 Proyectos académicos relevantes
-- Implementación de algoritmos de planificación y estructuras complejas en C++
-- Desarrollo de sistemas CRUD completos conectados a bases de datos relacionales
-- Construcción de aplicaciones web full-stack usando PHP/MySQL y Node.js
+### 📂 Proyectos académicos relevantes  
+- Implementación de algoritmos de planificación y estructuras complejas en C++  
+- Desarrollo de sistemas CRUD completos conectados a bases de datos relacionales  
+- Construcción de aplicaciones web full-stack usando PHP/MySQL y Node.js  
 - Aplicaciones móviles híbridas y nativas con Flutter y Java
 
 ---
@@ -87,12 +80,13 @@ Durante mi formación en Ingeniería Informática, he desarrollado una base sól
 ### [📅 ESIPlanner – App de Horarios Académicos](https://github.com/carloscl2001/ESIPlanner)  
 Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, obteniendo una **calificación de 10**, para la gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
 
-- Flutter (interfaz y navegación)
-- FastAPI (backend)
-- MongoDB Atlas (base de datos)
+- Flutter (interfaz y navegación)  
+- FastAPI (backend)  
+- MongoDB Atlas (base de datos)  
 - Despliegue en servidor Linux
 
-> 🧪 Funcionalidades: login, registro, horarios personalizados, integración con agenda, consumo de APIs académicas.
+> 🧪 Funcionalidades: login, registro, horarios personalizados, integración con agenda, consumo de APIs académicas.  
+> 📈 Calificación máxima (10) y uso real en la comunidad académica.
 
 ---
 
@@ -104,5 +98,6 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com)
+
