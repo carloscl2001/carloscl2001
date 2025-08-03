@@ -96,7 +96,7 @@ Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto co
 ## 📌 Proyecto destacado
 
 ### [🎓 ESIPlanner – App de Horarios Académicos](https://github.com/carloscl2001/ESIPlanner)  
-📅 Aplicación multiplataforma creada como **TFG** para la Escuela Superior de Ingeniería.  
+📅 Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, obteniendo una **calificación de 10**, para la gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
 🎖️ **Calificación: 10/10**
 
 🧰 Flutter · FastAPI · MongoDB Atlas · Docker · APIs REST  
