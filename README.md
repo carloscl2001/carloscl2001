@@ -95,7 +95,6 @@ Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto co
 - APIs RESTful (FastAPI, Node.js)  
 - Desarrollo web full-stack  
 - Desarrollo móvil con Android Studio y Flutter  
-- Sistemas embebidos (iniciándome)  
 - Control de versiones (Git) y despliegue con Docker  
 - Videojuegos simples con Unity y C#
 
@@ -103,6 +102,7 @@ Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto co
 - Algoritmos de planificación y estructuras de datos en C++
 - Sistemas CRUD conectados a bases de datos reales
 - Aplicaciones web y móviles funcionales y escalables
+- Aplicaciones móviles
 
 ---
 
