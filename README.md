@@ -16,11 +16,11 @@
 ## ⚙️ Competencias clave
 
 - Dominio avanzado de **C++** para desarrollo de software eficiente y fiable, con énfasis en sistemas embebidos y software en tiempo real.  
-- Análisis de requisitos y ressolución de problemas
-- Colaboracion en equipo 
-- Control de versiones con **Git** y aplicación de metodologías ágiles **Scrum**.  
-- Experiencia en desarrollo multiplataforma con Flutter, Python y APIs REST.  
-- Inglés técnico B2, preparado para trabajo en entornos internacionales.
+- Análisis de requisitos y resolución de problemas  
+- Colaboración en equipo  
+- Control de versiones con **Git** y aplicación de metodologías ágiles **Scrum**  
+- Experiencia en desarrollo multiplataforma con Flutter, Python y APIs REST  
+- Inglés técnico B2, preparado para trabajo en entornos internacionales
 
 ---
 
@@ -61,6 +61,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-6-green?style=flat&logo=qt)
 
 ---
 
@@ -71,9 +72,9 @@
 
 Durante mis prácticas extracurriculares, diseñé y desarrollé un sistema completo para la gestión del calendario académico, implementado mediante una aplicación multiplataforma. Este proyecto fue también el núcleo de mi Trabajo Fin de Grado (TFG), el cual fue evaluado con una calificación de 10.
 
-- Implementé funcionalidades clave para la gestión de horarios académicos, integración de usuarios y sincronización de datos.  
-- Trabajé bajo metodología ágil Scrum, participando activamente en reuniones y planificación semanal.  
-- Realicé la configuración y despliegue del sistema en un entorno Linux, aplicando buenas prácticas de seguridad y mantenimiento.
+- Implementé funcionalidades clave para la gestión de horarios académicos, integración de usuarios y sincronización de datos  
+- Trabajé bajo metodología ágil Scrum, participando activamente en reuniones y planificación semanal  
+- Realicé la configuración y despliegue del sistema en un entorno Linux, aplicando buenas prácticas de seguridad y mantenimiento
 
 **Tecnologías utilizadas:** Flutter · FastAPI · MongoDB Atlas · Python · Git · Linux
 
@@ -84,10 +85,10 @@ Durante mis prácticas extracurriculares, diseñé y desarrollé un sistema comp
 Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto conocimientos teóricos como prácticos.
 
 ### 🧠 Lenguajes clave
-- **C++**: Lenguaje principal y en el que poseo mayor dominio, usado extensamente para el desarrollo de estructuras complejas, algoritmos avanzados, aplicaciones de escritorio y gestión eficiente de memoria.  
-- **Java**: Experiencia en concurrencia, programación en tiempo real y sistemas indexadores multihilo.  
-- **Python**: Automatización, scripting, desarrollo backend y procesamiento de datos.  
-- **SQL**: Modelado y consultas complejas en Oracle, MySQL y PostgreSQL.
+- **C++**: Lenguaje principal y en el que poseo mayor dominio, usado extensamente para el desarrollo de estructuras complejas, algoritmos avanzados, aplicaciones de escritorio y gestión eficiente de memoria  
+- **Java**: Experiencia en concurrencia, programación en tiempo real y sistemas indexadores multihilo  
+- **Python**: Automatización, scripting, desarrollo backend y procesamiento de datos  
+- **SQL**: Modelado y consultas complejas en Oracle, MySQL y PostgreSQL
 
 ### 🧱 Áreas destacadas
 - Análisis y resolución de problemas complejos  
@@ -98,38 +99,35 @@ Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto co
 - Control de versiones (Git) y despliegue con Docker  
 - Videojuegos simples con Unity y C#
 
-### 🧪 Proyectos académicos
-- Algoritmos de planificación y estructuras de datos en C++
-- Sistemas CRUD conectados a bases de datos reales
-- Aplicaciones web y móviles funcionales y escalables
-- Aplicaciones móviles
+---
+
+## 📌 Proyectos destacados
+
+### 1️⃣ [📅 ESIPlanner – App multiplataforma para la gestión del calendario académico](https://github.com/carloscl2001/ESIPlanner-TFG)  
+Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, obteniendo una **calificación de 10**, para la gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
+
+🎖️ **Calificación: 10/10**  
+
+**Tecnologías:** Flutter · FastAPI · MongoDB Atlas · Docker · APIs REST  
+**Funcionalidades:** Sistema de login, registro, selección de asignaturas y grupos, horarios personalizados, modo claro/oscuro, interfaz web e interfaz móvil
 
 ---
 
-## 📌 Proyecto destacado - Trabajo de Fin de Grado
-
-### [📅 ESIPlanner – App multiplataforma la para la gestión del calendario cadémico](https://github.com/carloscl2001/ESIPlanner-TFG)  
-Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, obteniendo una **calificación de 10**, para la gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
-
-🎖️ **Calificación: 10/10**
-
-Tecnologías: Flutter · FastAPI · MongoDB Atlas · Docker · APIs REST  
-> Funcionalidades: Sistema de login, registro, selección de asiganturas y grupos, horarios personalizados, modo claro/oscuro, interfaz web e interfaz móvil.
-
-> Uso real en la comunidad educativa de la Escuela Superior de Ingeniería de la Universidad de Cádiz.
-
-### 2️⃣ [🚢 Naval Sensor Simulator – C++ / Qt / GoogleTest](https://github.com/carloscl2001/Naval-Sensor-Simulator)
+### 2️⃣ [🚢 Naval Sensor Simulator – C++ / Qt / GoogleTest](https://github.com/carloscl2001/NavalSensorSimulator)  
 
 Simulador de sensores navales desarrollado en **C++17**, con visualización en **Qt** y pruebas automatizadas con **GoogleTest**. Este proyecto reproduce un sistema de monitorización de sensores (temperatura, presión y velocidad) con detección de anomalías, ideal para entornos de ingeniería y sector naval.
 
+![Build Status](https://github.com/carloscl2001/NavalSensorSimulator/actions/workflows/build.yml/badge.svg)
+![Tests Status](https://github.com/carloscl2001/NavalSensorSimulator/actions/workflows/tests.yml/badge.svg)
+
 🎖️ **Funciones clave:**
 
-- Simulación de sensores con valores aleatorios, **ruido**, **drift** y **fallos aleatorios**.  
-- **Detección de anomalías** cuando los valores exceden los límites definidos.  
-- Visualización en **tiempo real con Qt**, resaltando anomalías en la tabla.  
-- Implementación del **patrón Observer** para extensibilidad: consola, archivos, GUI.  
-- Configuración de sensores mediante **archivo JSON** (`sensors.json`).  
-- **Tests unitarios e integración** con GoogleTest para garantizar fiabilidad.  
+- Simulación de sensores con valores aleatorios, **ruido**, **drift** y **fallos aleatorios**  
+- **Detección de anomalías** cuando los valores exceden los límites definidos  
+- Visualización en **tiempo real con Qt**, resaltando anomalías en la tabla  
+- Implementación del **patrón Observer** para extensibilidad: consola, archivos, GUI  
+- Configuración de sensores mediante **archivo JSON** (`sensors.json`)  
+- **Tests unitarios e integración** con GoogleTest para garantizar fiabilidad  
 
 💻 **Tecnologías:** C++17 · Qt6 (Widgets) · GoogleTest · nlohmann/json · CMake  
 
@@ -137,10 +135,10 @@ Simulador de sensores navales desarrollado en **C++17**, con visualización en *
 
 ## 🧠 Actualmente aprendiendo
 
-- 🔬 Testing avanzado en **C++** (Google Test)
-- 📋 Matrices de prueba y validación de requisitos
-- 🧪 Técnicas de control de versiones y workflows (Git, documentación)
-- ⚙️ Fundamentos de **sistemas embebidos** y software en tiempo real
+- 🔬 Testing avanzado en **C++** (Google Test)  
+- 📋 Matrices de prueba y validación de requisitos  
+- 🧪 Técnicas de control de versiones y workflows (Git, documentación)  
+- ⚙️ Fundamentos de **sistemas embebidos** y software en tiempo real  
 - <img src="https://flagcdn.com/gb.svg" width="20" height="15"> Mejora de **inglés técnico** y documentación profesional
 
 ---
@@ -149,6 +147,3 @@ Simulador de sensores navales desarrollado en **C++17**, con visualización en *
 
 - <img src="https://flagcdn.com/es.svg" width="20" height="15"> Español – Nativo  
 - <img src="https://flagcdn.com/gb.svg" width="20" height="15"> Inglés – Nivel B2 (técnico y conversacional)
-
----
-
