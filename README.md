@@ -121,10 +121,7 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 
 Simulador de sensores navales desarrollado en **C++17**, con visualización en **Qt** y pruebas automatizadas con **GoogleTest**. Este proyecto reproduce un sistema de monitorización de sensores (temperatura, presión y velocidad) con detección de anomalías, ideal para entornos de ingeniería y sector naval.
 
-![Build Status](https://github.com/carloscl2001/NavalSensorSimulator/actions/workflows/build.yml/badge.svg)
-![Tests Status](https://github.com/carloscl2001/NavalSensorSimulator/actions/workflows/tests.yml/badge.svg)
-
-🎖️ **Funciones clave:**
+🔹 **Funciones clave:**
 
 - Simulación de sensores con valores aleatorios, **ruido**, **drift** y **fallos aleatorios**  
 - **Detección de anomalías** cuando los valores exceden los límites definidos  
@@ -143,7 +140,9 @@ Simulador de sensores navales desarrollado en **C++17**, con visualización en *
 - 📋 Matrices de prueba y validación de requisitos  
 - 🧪 Técnicas de control de versiones y workflows (Git, documentación)  
 - ⚙️ Fundamentos de **sistemas embebidos** y software en tiempo real  
+- 🖥️ Desarrollo de interfaces gráficas con **Qt**  
 - <img src="https://flagcdn.com/gb.svg" width="20" height="15"> Mejora de **inglés técnico** y documentación profesional
+
 
 ---
 
