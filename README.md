@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙️ Competencias clave
+## 💎 Competencias clave
 
 - Dominio avanzado de **C++** para desarrollo de software eficiente y fiable, con énfasis en sistemas embebidos y software en tiempo real.  
 - Análisis de requisitos y resolución de problemas  
