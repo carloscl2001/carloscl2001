@@ -118,6 +118,21 @@ Tecnologías: Flutter · FastAPI · MongoDB Atlas · Docker · APIs REST
 
 > Uso real en la comunidad educativa de la Escuela Superior de Ingeniería de la Universidad de Cádiz.
 
+### 2️⃣ [🚢 Naval Sensor Simulator – C++ / Qt / GoogleTest](https://github.com/carloscl2001/NavalSensorSimulator)  
+
+Simulador de sensores navales desarrollado en **C++17**, con visualización en **Qt** y pruebas automatizadas con **GoogleTest**. Este proyecto reproduce un sistema de monitorización de sensores (temperatura, presión y velocidad) con detección de anomalías, ideal para entornos de ingeniería y sector naval.
+
+🎖️ **Funciones clave:**
+
+- Simulación de sensores con valores aleatorios, **ruido**, **drift** y **fallos aleatorios**.  
+- **Detección de anomalías** cuando los valores exceden los límites definidos.  
+- Visualización en **tiempo real con Qt**, resaltando anomalías en la tabla.  
+- Implementación del **patrón Observer** para extensibilidad: consola, archivos, GUI.  
+- Configuración de sensores mediante **archivo JSON** (`sensors.json`).  
+- **Tests unitarios e integración** con GoogleTest para garantizar fiabilidad.  
+
+💻 **Tecnologías:** C++17 · Qt6 (Widgets) · GoogleTest · nlohmann/json · CMake  
+
 ---
 
 ## 🧠 Actualmente aprendiendo
