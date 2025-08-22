@@ -129,7 +129,7 @@ Simulador de sensores navales desarrollado en **C++17**, con visualización en *
 - **Detección de anomalías** cuando los valores exceden los límites definidos  
 - Visualización en **tiempo real con Qt**, resaltando anomalías en la tabla  
 - Implementación del **patrón Observer** para extensibilidad: consola, archivos, GUI  
-- Configuración de sensores mediante **archivo JSON** (`sensors.json`)  
+- Configuración de sensores mediante **archivo JSON**
 - **Tests unitarios e integración** con GoogleTest para garantizar fiabilidad  
 
 💻 **Tecnologías:** C++17 · Qt6 (Widgets) · GoogleTest · nlohmann/json · CMake  
