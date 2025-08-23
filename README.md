@@ -162,9 +162,9 @@ Simulador de sensores navales desarrollado en **C++17**, con visualización en *
 
 ---
 
-### Lenguajes más usados
-
 <!-- Estadísticas de GitHub -->
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscl2001&layout=compact&theme=tokyonight&hide=HTML,CSS&langs_count=6&custom_title=Mis%20Lenguajes&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscl2001&layout=default&theme=tokyonight&hide=HTML,CSS&langs_count=6&custom_title=Mis%20Lenguajes&hide_border=true)
+
 
 
