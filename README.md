@@ -161,6 +161,7 @@ Simulador de sensores navales desarrollado en **C++17**, con visualización en *
 - <img src="https://flagcdn.com/gb.svg" width="20" height="15"> Inglés – Nivel B2 (técnico y conversacional)
 
 ---
+### 🌐 Uso de lenguajes
 
 <!-- Estadísticas de GitHub -->
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscl2001&layout=compact&theme=tokyonight&hide=HTML,CSS&langs_count=6&custom_title=Mis%20Lenguajes&hide_border=true&exclude_repo=REC)
