@@ -26,9 +26,10 @@
 
 ## 📫 Contacto
 
-<p align="center">
-    <a href="mailto:carlosantonio.corteslora@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" width="130"></a>
-    <a href="https://www.linkedin.com/in/carlos-antonio-cortes-lora" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" width="130"></a>
+<p align="left" >
+        <a href="https://www.linkedin.com/in/ra%C3%BAl-arcos-herrera-b11514175/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+    <a href="http://instagram.com/raularcosherrera" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
+    <a href="https://twitter.com/RaulArcosH" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059786-980a496d-654e-4d81-add4-b490553bf34d.png"  width="45"></a>
 </p>
 
 ---
