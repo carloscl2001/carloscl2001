@@ -118,7 +118,8 @@ Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto co
 ### 1️⃣ [🚢 Naval Sensor Simulator – C++ / Qt / GoogleTest](https://github.com/carloscl2001/Naval-Sensor-Simulator)
 
 
-![Logo del Simulador de Sensores Navales](https://github.com/carloscl2001/Naval-Sensor-Simulator/docs/logo.png)
+![Logo del Simulador de Sensores Navales](https://raw.githubusercontent.com/carloscl2001/Naval-Sensor-Simulator/4b6e8d9ee8c1a4f98693170793381a9dbdf352d3/docs/logo.png)
+
 
 
 Simulador de sensores navales desarrollado en **C++17**, con visualización en **Qt** y pruebas automatizadas con **GoogleTest**. Este proyecto reproduce un sistema de monitorización de sensores (temperatura, presión y velocidad, etc..) con detección de anomalías, ideal para entornos de ingeniería y sector naval.
