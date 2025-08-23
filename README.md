@@ -138,8 +138,8 @@ Simulador de sensores navales desarrollado en **C++17**, con visualización en *
 
 ### 2️ [📅 ESIPlanner – App multiplataforma para la gestión del calendario académico](https://github.com/carloscl2001/ESIPlanner-TFG)  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carloscl2001/ESIPlanner-TFG/main/esiplanner/assets/logo.svg" alt="ESIPlanner Logo" width="500">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/carloscl2001/ESIPlanner-TFG/main/esiplanner/assets/logo.svg" alt="ESIPlanner Logo" width="200">
 </p>
 
 Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, obteniendo una **calificación de 10**, para la gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
