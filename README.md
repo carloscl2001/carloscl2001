@@ -28,7 +28,7 @@
 
 <p align="left" >
         <a href="https://www.linkedin.com/in/carlos-antonio-cortes-lora/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
-    <
+        <a href="mailto:carlosantonio.corteslora@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059837-133595f1-888e-49b9-8e10-c081e649e759.png" width="45"></a>    
     
 </p>
 
