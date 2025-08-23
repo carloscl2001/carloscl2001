@@ -26,8 +26,10 @@
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosantonio.corteslora@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-cortes-lora)
+<p align="center">
+    <a href="mailto:carlosantonio.corteslora@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" width="130"></a>
+    <a href="https://www.linkedin.com/in/carlos-antonio-cortes-lora" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" width="130"></a>
+</p>
 
 ---
 
