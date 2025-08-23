@@ -152,6 +152,11 @@ Simulador de sensores navales desarrollado en **C++17**, con visualización en *
 - <img src="https://flagcdn.com/gb.svg" width="20" height="15"> Mejora de **inglés técnico** y documentación profesional
 
 
+<!-- Estadísticas de GitHub -->
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscl2001&layout=compact&theme=tokyonight)
+
+
+
 ---
 
 ### 🌐 Idiomas
