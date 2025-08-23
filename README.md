@@ -15,7 +15,7 @@
 
 ## 💎 Competencias clave
 
-- **C++ avanzado**: desarrollo de software eficiente y fiable, con foco en sistemas embebidos y software en tiempo real. 
+- **Dominio avanzado de C++**, desarrollo de software eficiente y fiable.
 - Análisis de requisitos y resolución de problemas  
 - Colaboración en equipo  
 - Control de versiones con **Git** y aplicación de metodologías ágiles **Scrum**  
@@ -97,7 +97,7 @@ Durante mis prácticas extracurriculares, diseñé y desarrollé un sistema comp
 Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto conocimientos teóricos como prácticos.
 
 ### 🧠 Lenguajes clave
-- **C++**: Lenguaje principal y en el que poseo mayor dominio, usado extensamente para el desarrollo de estructuras complejas, algoritmos avanzados, aplicaciones de escritorio y gestión eficiente de memoria  
+- **C++**: Lenguaje principal, usado extensamente para el desarrollo de estructuras complejas, algoritmos avanzados, aplicaciones de escritorio y gestión eficiente de memoria  
 - **Java**: Experiencia en concurrencia, programación en tiempo real y sistemas indexadores multihilo  
 - **Python**: Automatización, scripting, desarrollo backend y procesamiento de datos  
 - **SQL**: Modelado y consultas complejas en Oracle, MySQL y PostgreSQL
