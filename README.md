@@ -115,17 +115,7 @@ Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto co
 
 ## 📌 Proyectos destacados
 
-### 1️⃣ [📅 ESIPlanner – App multiplataforma para la gestión del calendario académico](https://github.com/carloscl2001/ESIPlanner-TFG)  
-Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, obteniendo una **calificación de 10**, para la gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
-
-🎖️ **Calificación: 10/10**  
-
-**Tecnologías:** Flutter · FastAPI · MongoDB Atlas · Docker · APIs REST  
-**Funcionalidades:** Sistema de login, registro, selección de asignaturas y grupos, horarios personalizados, modo claro/oscuro, interfaz web e interfaz móvil
-
----
-
-### 2️⃣ [🚢 Naval Sensor Simulator – C++ / Qt / GoogleTest](https://github.com/carloscl2001/Naval-Sensor-Simulator)
+### 1️⃣ [🚢 Naval Sensor Simulator – C++ / Qt / GoogleTest](https://github.com/carloscl2001/Naval-Sensor-Simulator)
 
 Simulador de sensores navales desarrollado en **C++17**, con visualización en **Qt** y pruebas automatizadas con **GoogleTest**. Este proyecto reproduce un sistema de monitorización de sensores (temperatura, presión y velocidad, etc..) con detección de anomalías, ideal para entornos de ingeniería y sector naval.
 
@@ -139,6 +129,18 @@ Simulador de sensores navales desarrollado en **C++17**, con visualización en *
 - **Tests unitarios e integración** con GoogleTest para garantizar fiabilidad  
 
 💻 **Tecnologías:** C++17 · Qt6 (Widgets) · GoogleTest · nlohmann/json · CMake  
+
+---
+
+### 2️ [📅 ESIPlanner – App multiplataforma para la gestión del calendario académico](https://github.com/carloscl2001/ESIPlanner-TFG)  
+Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, obteniendo una **calificación de 10**, para la gestión del calendario académico de docentes y estudiantes de la Escuela Superior de Ingeniería.
+
+🎖️ **Calificación: 10/10**  
+
+**Tecnologías:** Flutter · FastAPI · MongoDB Atlas · Docker · APIs REST  
+**Funcionalidades:** Sistema de login, registro, selección de asignaturas y grupos, horarios personalizados, modo claro/oscuro, interfaz web e interfaz móvil
+
+
 
 ---
 
