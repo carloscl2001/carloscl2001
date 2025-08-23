@@ -27,8 +27,7 @@
 ## 📫 Contacto
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/carlos-antonio-cortes-lora/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45">
-    </a>
+    <a href="https://www.linkedin.com/in/carlos-antonio-cortes-lora/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
     &nbsp;&nbsp;
     <a href="mailto:carlosantonio.corteslora@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45">
@@ -36,7 +35,7 @@
 </p>
 
 <p align="left" >
-        <a href="https://www.linkedin.com/in/carlos-antonio-cortes-lora/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+
     <a href="http://instagram.com/raularcosherrera" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
     <a href="https://twitter.com/RaulArcosH" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059786-980a496d-654e-4d81-add4-b490553bf34d.png"  width="45"></a>
 </p>
