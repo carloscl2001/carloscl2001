@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mí
 
-🎓 **Ingeniero Informático** con sólida formación en desarrollo multiplataforma y backend, especializado en diseño de soluciones precisas, fiables y escalables. Experiencia en metodologías ágiles, despliegue en entornos Linux y trabajo colaborativo. Apasionado por resolver problemas complejos mediante código limpio y buenas prácticas.
+🎓 **Ingeniero Informático** con sólida formación en desarrollo de software, especializado en diseño de soluciones precisas, fiables y escalables. Experiencia en metodologías ágiles, despliegue en entornos Linux y trabajo colaborativo. Apasionado por resolver problemas complejos mediante código limpio y buenas prácticas.
 
 🛠️ Me gusta resolver problemas complejos mediante **código limpio**, diseño estructurado y colaboración efectiva.  
 
