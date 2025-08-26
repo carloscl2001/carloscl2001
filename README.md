@@ -108,7 +108,7 @@ Durante la carrera he trabajado con múltiples tecnologías, afianzando tanto co
 - APIs RESTful (FastAPI, Node.js)  
 - Desarrollo web full-stack  
 - Desarrollo móvil con Android Studio y Flutter  
-- Control de versiones (Git) y despliegue con Docker  
+- Control de versiones (Git)
 - Videojuegos simples con Unity y C#
 
 ---
