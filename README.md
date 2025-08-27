@@ -67,7 +67,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-### 🔹 Herramientas y otras tecnologías
+### 🔹 Herramientas de Desarrollo y Plataformas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-6-green?style=flat&logo=qt&logoColor=white)
