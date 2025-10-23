@@ -81,10 +81,10 @@
 
 ## 💼 Experiencia profesional
 
-### 🧑‍💻 Desarrollador de aplicaciones multiplataforma  
+### 🧑‍💻 Ingeniero de software 
 **Universidad de Cádiz** — *Prácticas extracurriculares*
 
-Durante mis prácticas extracurriculares, diseñé y desarrollé un sistema completo para la gestión del calendario académico, implementado mediante una aplicación multiplataforma. Este proyecto fue también el núcleo de mi Trabajo Fin de Grado (TFG), el cual fue evaluado con una calificación de 10.
+Durante mis prácticas extracurriculares, lideré el diseño y desarrollo completo de una solución multiplataforma para la gestión integral del calendario académico, impactando directamente en la operatividad de la ESI. Este proyecto fue también el núcleo de mi Trabajo Fin de Grado (TFG), el cual fue evaluado con una calificación de 10.
 
 - Implementé funcionalidades clave para la gestión de horarios académicos, integración de usuarios y sincronización de datos  
 - Trabajé bajo metodología ágil Scrum, participando activamente en reuniones y planificación semanal  
