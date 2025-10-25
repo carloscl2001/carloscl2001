@@ -15,7 +15,7 @@
 
 ## 💎 Competencias clave
 
-- **Dominio avanzado de C++**, desarrollo de software eficiente y fiable.
+- Dominio avanzado de C++ aplicado al diseño de sistemas eficientes, fiables y concurrentes.
 - Análisis de requisitos y resolución de problemas  
 - Colaboración en equipo  
 - Control de versiones con **Git** y aplicación de metodologías ágiles **Scrum**  
