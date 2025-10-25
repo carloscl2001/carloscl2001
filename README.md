@@ -157,7 +157,7 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 
 ## 🧠 Actualmente aprendiendo
 
-- 🔬 Testing avanzado en **C++** (Google Test)  
+- 🔬 Testing avanzado en **C++** (Google Test y MuCPP)  
 - 📋 Matrices de prueba y validación de requisitos  
 - 🧪 Técnicas de control de versiones y workflows (Git, documentación)  
 - ⚙️ Fundamentos de **sistemas embebidos** y software en tiempo real  
