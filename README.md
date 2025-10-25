@@ -159,7 +159,6 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 
 - 🔬 Testing avanzado en **C++** (Google Test y MuCPP)  
 - 📋 Matrices de prueba y validación de requisitos  
-- 🧪 Técnicas de control de versiones y workflows (Git, documentación)  
 - ⚙️ Fundamentos de **sistemas embebidos** y software en tiempo real  
 - 🖥️ Desarrollo de interfaces gráficas con **Qt**  
 - <img src="https://flagcdn.com/gb.svg" width="20" height="15"> Mejora de **inglés técnico** y documentación profesional
