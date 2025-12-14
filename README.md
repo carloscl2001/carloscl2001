@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mí
 
-🎓 **Ingeniero Informático** con **Máster en Investigación en Ingeniería de Sistemas y de la Computación** (en curso), **centrado en la Arquitectura y Fiabilidad de Sistemas Ciberfísicos** para entornos de **misión crítica**. Aplico el **rigor del Modelado y la Fiabilidad** en el diseño de soluciones robustas y escalables. Experiencia en metodologías ágiles, despliegue en entornos Linux y trabajo colaborativo.
+🎓 **Ingeniero Informático** con **Máster en Investigación en Ingeniería de Sistemas y de la Computación** (en curso), **centrado en la Arquitectura y Fiabilidad de Sistemas Ciberfísicos**. Aplico el **rigor del Modelado y la Fiabilidad** en el diseño de soluciones robustas y escalables. Experiencia en metodologías ágiles, despliegue en entornos Linux y trabajo colaborativo.
 
 🛠️ Me gusta resolver problemas complejos mediante **código limpio**, diseño estructurado y colaboración efectiva.  
 
