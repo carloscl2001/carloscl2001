@@ -70,6 +70,7 @@
 ### 🔹 Control de versiones
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
 </div>
 
