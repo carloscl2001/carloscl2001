@@ -92,6 +92,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-6-green?style=flat&logo=qt&logoColor=white)
+![GoogleTest](https://img.shields.io/badge/GoogleTest-00bfff?style=flat-square&logo=google&logoColor=white)
 
 
 
