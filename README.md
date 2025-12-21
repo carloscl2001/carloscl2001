@@ -93,6 +93,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-6-green?style=flat&logo=qt&logoColor=white)
 ![GoogleTest](https://img.shields.io/badge/GoogleTest-00bfff?style=flat-square&logo=google&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 
 
