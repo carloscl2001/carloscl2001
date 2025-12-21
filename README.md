@@ -191,3 +191,6 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 
 <!-- Estadísticas de GitHub -->
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscl2001&layout=compact&theme=tokyonight&hide=HTML,CSS&langs_count=6&custom_title=Mis%20Lenguajes&hide_border=true&exclude_repo=REC)
+
+### 
+<img src="https://raw.githubusercontent.com/carloscl2001/carloscl2001/output/snake.svg" alt="Snake animation" />
