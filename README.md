@@ -88,66 +88,6 @@
   <img src="https://img.shields.io/badge/JUnit_5-C92326?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5 Badge"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 2️⃣ Estilo: `flat-square` (Elegancia Técnica)
-*Estética moderna, limpia y minimalista. Muy común en documentación de alta ingeniería.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=flat-square&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 3️⃣ Estilo: `flat` (Estándar de GitHub)
-*El más equilibrado. Es discreto y no distrae de la lectura del texto principal.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=flat&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 4️⃣ Estilo: `plastic` (Retro-Digital)
-*Añade un ligero relieve/degradado. Interesante si buscas una estética de software clásico.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=plastic&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=plastic&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=plastic&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 5️⃣ Estilo: `social` (Informativo)
-*Diseño tipo burbuja. Menos común para stacks técnicos, más para enlaces a redes.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=social&logo=c%2b%2b" />
-  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=social&logo=qt" />
-  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=social&logo=google" />
-  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=social&logo=junit5" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=social&logo=docker" />
-</p>
-
 
 ### 🔹 Herramientas de Desarrollo y Plataformas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
