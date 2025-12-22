@@ -73,7 +73,7 @@
 </div>
 
 
-### 🔹 Testing
+### 🔹 Verificación y Validación
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GoogleTest Badge"/>
   <img src="https://img.shields.io/badge/JUnit_5-C92326?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5 Badge"/>
