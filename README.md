@@ -56,7 +56,7 @@
 </div>
 
 
-### 🔹 Framework
+### 🔹 Frameworks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60" alt="qt logo"  />
   <img width="20" />
