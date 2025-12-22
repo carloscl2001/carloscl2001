@@ -70,6 +70,13 @@
 </div>
 
 
+### 🔹 Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GoogleTest Badge"/>
+  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5 Badge"/>
+</p>
+
+
 ### 🔹 Bases de datos
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
@@ -80,13 +87,6 @@
  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60" alt="mongodb logo"  />
 </div>
-
-
-### 🔹 Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GoogleTest Badge"/>
-  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5 Badge"/>
-</p>
 
 
 ### 🔹 Contenedores
