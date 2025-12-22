@@ -77,7 +77,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GoogleTest Badge"/>
   <img src="https://img.shields.io/badge/JUnit_5-C92326?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5 Badge"/>
-  <img src="https://img.shields.io/badge/Cppcheck-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
 
