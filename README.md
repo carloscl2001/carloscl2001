@@ -76,17 +76,16 @@
 </div>
 
 
-### 🔹 APIs REST
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+### 🔹 Framework
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+</div>
 
-### 🔹 Desarrollo web y móvil
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+### 🔹 Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GoogleTest Badge"/>
+  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5 Badge"/>
+</p>
 
 ### 🔹 Herramientas de Desarrollo y Plataformas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -98,10 +97,7 @@
 
 > "Código sin tests es código legado al instante."
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GoogleTest Badge"/>
-  <img src="https://img.shields.io/badge/JUnit_5-C92326?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5 Badge"/>
-</p>
+
 
 **Metodologías:** Unit Testing · Pruebas de Concurrencia · Análisis de Requisitos · V&V
 
