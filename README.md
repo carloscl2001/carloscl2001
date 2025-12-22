@@ -56,6 +56,12 @@
 </div>
 
 
+### 🔹 Framework
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60" alt="qt logo"  />
+</div>
+
+
 
 ### 🔹 Bases de datos
 <div align="left">
@@ -68,6 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60" alt="mongodb logo"  />
 </div>
 
+
 ### 🔹 Control de versiones
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
@@ -75,11 +82,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="120" alt="github logo"  />
 </div>
 
-
-### 🔹 Framework
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60" alt="qt logo"  />
-</div>
 
 ### 🔹 Testing
 <p align="left">
