@@ -67,7 +67,7 @@
 ### 🔹 Control de versiones
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
- <img width="20" />
+ <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="120" alt="github logo"  />
 </div>
 
