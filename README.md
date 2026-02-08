@@ -177,10 +177,4 @@ Aplicación multiplataforma desarrollada como **Trabajo Fin de Grado (TFG)**, ob
 ### 🌐 Idiomas
 
 - <img src="https://flagcdn.com/es.svg" width="20" height="15"> Español – Nativo  
-- <img src="https://flagcdn.com/gb.svg" width="20" height="15"> Inglés – Nivel B2
-
----
-### 🌐 Uso de lenguajes
-
-<!-- Estadísticas de GitHub -->
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscl2001&layout=compact&theme=tokyonight&hide=HTML,CSS&langs_count=6&custom_title=Mis%20Lenguajes&hide_border=true&exclude_repo=REC)
+- <img src="https://flagcdn.com/gb.svg" width="20" height="15"> Inglés – Nivel B2 certificado
