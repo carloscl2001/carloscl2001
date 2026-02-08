@@ -5,7 +5,7 @@
 
 
 <h1 align="center">👋 ¡Hola! Soy Carlos Antonio Cortés Lora</h1>
-<h3 align="center">💻 Ingeniero Informático | Apasionado por crear software robusto y eficiente</h3>
+<h3 align="center">💻 Ingeniero Informático</h3>
 
 ---
 
